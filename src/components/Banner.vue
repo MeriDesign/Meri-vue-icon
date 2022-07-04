@@ -8,7 +8,7 @@
       </div>
       <div>
         <h3>Usage</h3>
-        <pre><code>import { IconHome } from 'Aim-vue-icon'<br/>&lt;span v-html="IconHome({size:36,color:'#009C22'})" /&gt;</code></pre>
+        <pre><code>import { IconHome } from 'meri-vue-icon'<br/>&lt;span v-html="IconHome({size:36,color:'#009C22'})" /&gt;</code></pre>
       </div>
     </div>
     <h3 style="text-align:center">提示:传入参数 {origin:true}  使用svg 原有的颜色</h3>
