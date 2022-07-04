@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="banner">meri Vue Icon</h1>
+    <h1 class="banner">Meri Vue Icon</h1>
     <div class="code">
       <div>
         <h3>Installation</h3>
