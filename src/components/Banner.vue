@@ -1,10 +1,10 @@
 <template>
   <div>
-    <h1 class="banner">Aim Vue Icon</h1>
+    <h1 class="banner">meri Vue Icon</h1>
     <div class="code">
       <div>
         <h3>Installation</h3>
-        <pre><code>npm install Aim-vue-icon --save<br/>yarn add Aim-vue-icon</code></pre>
+        <pre><code>npm install meri-vue-icon --save<br/>yarn add meri-vue-icon</code></pre>
       </div>
       <div>
         <h3>Usage</h3>
