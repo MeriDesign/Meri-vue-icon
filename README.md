@@ -1,4 +1,4 @@
-# aim-vue-icon
+# meri-vue-icon
 
 ## Project setup
 ```
